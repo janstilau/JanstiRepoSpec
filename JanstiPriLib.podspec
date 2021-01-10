@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'JanstiPriLib'
   s.version          = '1.0.0'
-  s.summary          = 'A short description of JanstiPriLib.'
+  s.summary          = 'Jansti 私有库'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -25,7 +25,7 @@ TODO: Add long description of the pod here.
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'JustinLau' => 'janstilau@gmail.com' }
-  s.source           = { :git => 'https://github.com/JustinLau/JanstiPriLib.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/janstilau/JanstiRepoSpec.git', :tag => '1.0.0' }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '9.0'

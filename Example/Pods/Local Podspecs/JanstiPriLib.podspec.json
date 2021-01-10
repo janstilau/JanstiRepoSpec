@@ -1,7 +1,7 @@
 {
   "name": "JanstiPriLib",
-  "version": "0.1.0",
-  "summary": "A short description of JanstiPriLib.",
+  "version": "1.0.0",
+  "summary": "Jansti 私有库",
   "description": "TODO: Add long description of the pod here.",
   "homepage": "https://github.com/JustinLau/JanstiPriLib",
   "license": {
@@ -12,8 +12,8 @@
     "JustinLau": "janstilau@gmail.com"
   },
   "source": {
-    "git": "https://github.com/JustinLau/JanstiPriLib.git",
-    "tag": "0.1.0"
+    "git": "https://github.com/janstilau/JanstiRepoSpec.git",
+    "tag": "1.0.0"
   },
   "platforms": {
     "ios": "9.0"
