@@ -1,0 +1,22 @@
+{
+  "name": "JanstiPriLib",
+  "version": "0.1.0",
+  "summary": "A short description of JanstiPriLib.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/JustinLau/JanstiPriLib",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "JustinLau": "janstilau@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/JustinLau/JanstiPriLib.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "JanstiPriLib/Classes/**/*"
+}

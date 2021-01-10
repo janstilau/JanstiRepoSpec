@@ -1,0 +1,6 @@
+framework module JanstiPriLib {
+  umbrella header "JanstiPriLib-umbrella.h"
+
+  export *
+  module * { export * }
+}
