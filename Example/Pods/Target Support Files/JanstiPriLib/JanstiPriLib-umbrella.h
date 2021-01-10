@@ -10,6 +10,7 @@
 #endif
 #endif
 
+#import "PrivateSpeaker.h"
 
 FOUNDATION_EXPORT double JanstiPriLibVersionNumber;
 FOUNDATION_EXPORT const unsigned char JanstiPriLibVersionString[];
