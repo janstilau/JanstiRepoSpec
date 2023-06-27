@@ -36,6 +36,8 @@ TODO: Add long description of the pod here.
   s.vendored_libraries = 'YoudaoADSDK/Libraries/libYDADSDK.a'
   s.resources = 'YoudaoADSDK/Assets/YDResource.bundle'
 
+  s.pod_target_xcconfig = { 'VALID_ARCHS' => 'x86_64 armv7 arm64' }
+
 #  s.vendored_frameworks = 'YoudaoADSDK/Libraries/*.framework'
 
 
